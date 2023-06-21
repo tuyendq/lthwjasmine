@@ -1,0 +1,14 @@
+{
+  "name": "lthwjasmine",
+  "version": "1.0.0",
+  "description": "LTHW Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "",
+  "license": "ISC"
+}
